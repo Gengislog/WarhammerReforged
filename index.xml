@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <dataIndex battleScribeVersion="2.03" name="Warhammer Reforged" indexUrl="https://github.com/Gengislog/WarhammerReforged/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
-    <dataIndexEntry filePath="Warhammer Reforged.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Warhammer Reforged.gstz" dataType="gamesystem" dataId="be4eb679-97dc-4876-b582-19ff87fae0fd" dataName="Warhammer Reforged" dataBattleScribeVersion="2.03" dataRevision="432"/>
     <dataIndexEntry filePath="Hombres lagarto.catz" dataType="catalogue" dataId="49dd-6404-b794-06e7" dataName="Hombres lagarto" dataBattleScribeVersion="2.03" dataRevision="0"/>
     <dataIndexEntry filePath="Imperio.catz" dataType="catalogue" dataId="74c4-5959-85e8-14bd" dataName="Imperio" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Orcos y goblins.catz" dataType="catalogue" dataId="503a-36a3-b407-46fb" dataName="Orcos y goblins " dataBattleScribeVersion="2.03" dataRevision="1"/>
